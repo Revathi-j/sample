@@ -1,0 +1,21 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "cb62b65d94c844cba1050b2ca353f4ac"
+build_time: [522323544, 232286000]
+inputs:
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Alamofire.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Download.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Error.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Manager.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/MultipartFormData.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Notifications.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/ParameterEncoding.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Request.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Response.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/ResponseSerialization.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Result.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/ServerTrustPolicy.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Stream.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Timeline.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Upload.swift": [522322656, 0]
+  "/Users/blt0009-/Desktop/untitled folder/Pods/Alamofire/Source/Validation.swift": [522322656, 0]

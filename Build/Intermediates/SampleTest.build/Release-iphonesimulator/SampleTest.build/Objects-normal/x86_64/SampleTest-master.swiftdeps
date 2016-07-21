@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "7f934a36dd729d11ad4e882a9d062827"
+build_time: [522323581, 726964000]
+inputs:
+  "/Users/blt0009-/Desktop/untitled folder/SampleTest/ViewController.swift": [522322658, 0]
+  "/Users/blt0009-/Desktop/untitled folder/SampleTest/AppDelegate.swift": [522322658, 0]
